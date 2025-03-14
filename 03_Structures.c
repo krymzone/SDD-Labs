@@ -17,7 +17,7 @@ struct BankCard
 	char* issuer; // 4 bytes
 	float balance; //4 bytes
 
-};//
+};// 31 bytes
 
 typedef struct BankCard BankCard;
 
